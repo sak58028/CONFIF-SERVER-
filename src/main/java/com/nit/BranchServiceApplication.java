@@ -10,6 +10,7 @@ public class BranchServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BranchServiceApplication.class, args);
+		System.out.println("main class");
 	}
 
 }
